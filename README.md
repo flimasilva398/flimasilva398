@@ -1,3 +1,6 @@
+contract address boredom BRDM : 0x3fb34ff8c3dce5e4018b5a47665933f04b950c3b
+
+A project with the aim of bringing joy against boredom 
 - 👋 Hi, I’m @flimasilva398
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
